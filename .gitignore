@@ -1,0 +1,19 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode
+*.xcuserstate
+*.xcuserdatad
+project.xcworkspace/
+xcuserdata/
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
